@@ -1,0 +1,74 @@
+.box {
+  float: left;
+  margin: 40px;
+}
+.footer {
+  clear: both;
+  padding: 200px;
+}
+#container {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+#advertisements2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#advertisements2 {
+  background-color: whitesmoke;
+}
+.header {
+  background-color: rgb(23, 23, 23);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+a {
+  text-decoration: none;
+  font-size: 25px;
+}
+a:hover {
+  opacity: 0.7;
+}
+button:hover {
+  background-color: rgb(201, 197, 197);
+}
+.link_to_shop {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: 20px;
+}
+.contact_us {
+  padding: 100px;
+  background-image: url(./img/logo\ home\ page.webp);
+  width: 100%;
+  height: 100%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.label_contact_us {
+  color: white;
+}
+.input_contact_us {
+  height: 200%;
+}
+.director_container {
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(0, 0, 0);
+  padding: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.Director_prodact {
+  padding: 50px;
+}
+.footer1 {
+  text-align: center;
+}
+.footer {
+  margin: auto;
+  width: 100%;
+  background-color: black;
+  padding: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: white;
+}
+a:hover #logo_sneakers_shop {
+  opacity: 0.7;
+}
