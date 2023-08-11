@@ -50,13 +50,16 @@ button:hover {
 }
 .director_container {
   margin: auto;
-  width: 50%;
+  /* width: 50%; */
   border: 3px solid rgb(0, 0, 0);
-  padding: 10px;
+  /* padding: 10px; */
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .Director_prodact {
-  padding: 50px;
+  display: flex;
+  text-align: center;
+  /* padding: 50px; */
+  flex-direction: column;
 }
 .footer1 {
   text-align: center;
